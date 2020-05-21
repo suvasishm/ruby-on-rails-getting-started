@@ -14,5 +14,11 @@ A view's purpose is to display this information in a human readable format. An i
 #### The following were done:
 1. Bootstrapped: `rails new .`
 2. Generated a controller: `rails generate controller Welcome index`
-3. Launch the server: `rails server`
-4. Navigate to `http://localhost:3000` in your browser
+3. Updated `config/routes.rb`
+4. Launch the server: `rails server`
+5. Navigate to `http://localhost:3000` in your browser
+
+Ref:
+1. https://guides.rubyonrails.org/getting_started.html
+2. https://guides.rubyonrails.org/routing.html
+3. https://guides.rubyonrails.org/configuring.html
